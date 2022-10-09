@@ -8,3 +8,8 @@ So it has all the features software features as the Pico Fighting Board. It has 
 # releases
 Head over to https://github.com/FeralAI/GP2040/releases and use **GP2040-PicoFightingBoard_v0.4.3.uf2** leave everything as default and it'll work
 
+# pics
+I will add pics later
+
+# gerbers
+gerbers included so you can go ahead and get the boards made yourself. I used https://jlcpcb.com/
