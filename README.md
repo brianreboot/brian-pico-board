@@ -8,7 +8,7 @@ So it has all the features software features as the Pico Fighting Board. It has 
 # Physical features
 I made this board as small as possible but big enough to made it easy enough for anyone with a standard soldering iron to make it. Which is why I went with through hole resistors because they're easier to solder and I have a bunch of them that I want to get rid of. <br />
 The 20-pin uses the [Brook Fighting Board Cable](https://www.brookaccessory.com/detail/59387342/)
-
+I tried the make the design of the board as close to the Brook as possible, the dimension are 46mm by 97mm
 
 # Releases
 Head over to https://github.com/FeralAI/GP2040/releases and use **GP2040-PicoFightingBoard_v0.4.3.uf2** leave everything as default and it'll work
