@@ -12,7 +12,8 @@ I made this board as small as possible but big enough to made it easy enough for
 Head over to https://github.com/FeralAI/GP2040/releases and use **GP2040-PicoFightingBoard_v0.4.3.uf2** leave everything as default and it'll work
 
 # Pics
-I will add pics later
+![Front unpopulated](https://github.com/lancebukkake/brian-pico-board/blob/main/images/front1.png) <br />
+![Front populated](https://github.com/lancebukkake/brian-pico-board/blob/main/images/front2.png)
 
 # Gerbers
 gerbers included so you can go ahead and get the boards made yourself. I used https://jlcpcb.com/
