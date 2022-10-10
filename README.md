@@ -14,8 +14,7 @@ I tried the make the design of the board as close to the Brook as possible, the 
 Head over to https://github.com/FeralAI/GP2040/releases and use **GP2040-PicoFightingBoard_v0.4.3.uf2** leave everything as default and it'll work
 
 # Pics
-![Front unpopulated](https://github.com/lancebukkake/brian-pico-board/blob/main/images/front1.png) <br />
-![Front populated](https://github.com/lancebukkake/brian-pico-board/blob/main/images/front2.png)
+I added some 3D renderings of the board, these are subject to change as I'm still messing around with it.
 
 # Kicad Project Files
 **files to be included** <br />
