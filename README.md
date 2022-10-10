@@ -15,8 +15,13 @@ Head over to https://github.com/FeralAI/GP2040/releases and use **GP2040-PicoFig
 ![Front unpopulated](https://github.com/lancebukkake/brian-pico-board/blob/main/images/front1.png) <br />
 ![Front populated](https://github.com/lancebukkake/brian-pico-board/blob/main/images/front2.png)
 
+# Kicad Project Files
+**to be included** <br />
+I used Kicad 6 for this project
+
 # Gerbers
-gerbers included so you can go ahead and get the boards made yourself. I used https://jlcpcb.com/
+**to be included** <br />
+Gerbers included so you can go ahead and get the boards made yourself. I used https://jlcpcb.com/
 
 # License
 CERN-OHL-W
