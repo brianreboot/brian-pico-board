@@ -7,7 +7,7 @@ So it has all the features software features as the Pico Fighting Board. It has 
 
 # Physical features
 I made this board as small as possible but big enough to made it easy enough for anyone with a standard soldering iron to make it. Which is why I went with through hole resistors because they're easier to solder and I have a bunch of them that I want to get rid of. <br />
-I used 330 ohm resistors for the LEDs <br />
+For some reason the player 1 LED was way too low and was annoying me so I went with something simple and just connected the LED to the VSYS to let me know that it was on. I used a 330 ohm resistor for the LED <br />
 The 20-pin uses the [Brook Fighting Board Cable](https://www.brookaccessory.com/detail/59387342/)  <br />
 I tried the make the design of the board as close to the Brook as possible, the dimension are 46mm by 97mm
 
