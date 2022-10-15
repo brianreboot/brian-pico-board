@@ -1,31 +1,10 @@
-# Brian's Pico Board rev.2
-This is a Raspberry Pi Pico Control Board. <br />
-I took the info from https://github.com/FeralAI/GP2040 and decided to make my own board because it looked fun. For more details go there.
+# Brian's Pico Board
+This is where I'll be providing gerbers for my controller PCBs
 
-# Software features
-So it has all the features software features as the Pico Fighting Board. It has support for the RGB LED but I don't have one so I haven't put it on my board.
+# Firmware
+Go to the [Open Stick Foundation Github](https://github.com/OpenStickFoundation/GP2040-CE) for more info and firmware.
 
-# Physical features
-I made this board as small as possible but big enough to made it easy enough for anyone with a standard soldering iron to make it. Which is why I went with through hole resistors because they're easier to solder and I have a bunch of them that I want to get rid of. <br />
-<br />
-For some reason the player 1 LED was way too low and was annoying me so I went with something simple and just connected the LED to VSYS to let me know that it was on. I used a 330 ohm resistor for the LED <br />
-<br />
-The 20-pin uses the [Brook Fighting Board Cable](https://www.brookaccessory.com/detail/59387342/)  <br />
-I tried the make the design of the board as close to the Brook as possible, the dimension are 46mm by 97mm
-
-# Releases
-Head over to https://github.com/FeralAI/GP2040/releases and use **GP2040-PicoFightingBoard_v0.4.3.uf2** leave everything as default and it'll work
-
-# Pics
-I added some 3D renderings of the board, these are subject to change as I'm still messing around with it.
-
-# Kicad Project Files
-**files to be included** <br />
-I used Kicad 6 for this project
-
-# Gerbers
-**files to be included** <br />
-Gerbers included so you can go ahead and get the boards made yourself. I used https://jlcpcb.com/
+Alternatively if you're using the HRAP Premium VLX controller which has a different button mapping then visit my github <https://github.com/brianreboot/GP2040-CE> for tweaked firmware. It has the same functionality except that the button layout on the OLED has been modified to match.
 
 # License
 CERN-OHL-W
