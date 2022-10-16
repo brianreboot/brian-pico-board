@@ -1,5 +1,5 @@
 # Pico Breakout
-This is where I'll be providing gerbers for my controller PCBs.
+This a simple Pico breakout PCB based on the Open Stick Foundation.
 
 # Firmware
 Go to the [Open Stick Foundation Github](https://github.com/OpenStickFoundation/GP2040-CE) for more info and firmware. <br />
