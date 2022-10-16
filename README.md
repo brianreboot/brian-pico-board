@@ -1,4 +1,4 @@
-# Brian's Pico Board
+# Pico Breakout
 This is where I'll be providing gerbers for my controller PCBs.
 
 # Firmware
