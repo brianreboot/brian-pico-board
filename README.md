@@ -8,7 +8,7 @@ This a simple Pico breakout PCB based on the Open Stick Foundation.
 You're going to need two 4.7K Ohm pull-up resisters for the OLED. The 20-pin connectors is for the Brook harness.
 
 # Getting the PCB made.
-I get my PCBs made at <https://jlcpcb.com/>
+I get my PCBs made at <https://jlcpcb.com/>. Just upload the gerber zip file and 
 
 # Firmware
 Go to the [Open Stick Foundation Github](https://github.com/OpenStickFoundation/GP2040-CE) for more info and firmware. <br />
