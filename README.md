@@ -2,7 +2,7 @@
 This a simple Pico breakout PCB based on the Open Stick Foundation.
 
 # Version 2
-<img src="https://github.com/brianreboot/brian-pico-breakout/blob/main/Version%202/3D%20Renderings/front.png" height="100" width="100" >
+<img src="https://github.com/brianreboot/brian-pico-breakout/blob/main/Version%202/3D%20Renderings/front.png" height=50% width=50% >
 
 
 
