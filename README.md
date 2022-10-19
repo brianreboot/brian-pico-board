@@ -14,7 +14,9 @@ I get my PCBs made at <https://jlcpcb.com/>. Just upload the gerber zip file. I 
 
 # Firmware
 This board uses a tweaked firmware that is based on the [Open Stick Foundation](https://github.com/OpenStickFoundation/GP2040-CE).<br />
-To properly use this board then head over to my github <https://github.com/brianreboot/GP2040-CE> and check out the VLX tree for the tweaked firmware. It has the same functionality except that the button layout on the OLED has been modified for the HRAP Premium VLX controller.
+To properly use this board then head over to my github <https://github.com/brianreboot/GP2040-CE/tree/VLX> and check out the VLX tree for the tweaked firmware. It has the same functionality except that the button layout on the OLED has been modified for the HRAP Premium VLX controller.
 
 # License
 CERN-OHL-W
+
+
