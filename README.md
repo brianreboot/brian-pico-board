@@ -13,9 +13,8 @@ I get my PCBs made at <https://jlcpcb.com/>. Just upload the gerber zip file. I 
 <img src="https://github.com/brianreboot/brian-pico-breakout/blob/main/jlcpcb%20pcb%20options/pcb%20options.png" height=30% width=30% >
 
 # Firmware
-Go to the [Open Stick Foundation Github](https://github.com/OpenStickFoundation/GP2040-CE) for more info and firmware. <br />
-
-Alternatively if you're using the HRAP Premium VLX controller which has a different button mapping then visit my github <https://github.com/brianreboot/GP2040-CE> and check out the VLX tree for the tweaked firmware. It has the same functionality except that the button layout on the OLED has been modified to match.
+This board uses a tweaked firmware that is based on the Open Stick Foundation [Open Stick Foundation Github](https://github.com/OpenStickFoundation/GP2040-CE).<br />
+To properly use this board then head over to my github <https://github.com/brianreboot/GP2040-CE> and check out the VLX tree for the tweaked firmware. It has the same functionality except that the button layout on the OLED has been modified for the HRAP Premium VLX controller.
 
 # License
 CERN-OHL-W
