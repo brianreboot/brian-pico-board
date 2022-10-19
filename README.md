@@ -2,9 +2,7 @@
 This a simple Pico breakout PCB based on the Open Stick Foundation.
 
 # Version 2
-<img src="https://github.com/brianreboot/brian-pico-breakout/blob/main/Version%202/3D%20Renderings/front.png" height=30% width=30% >
-
-
+<img src="https://github.com/brianreboot/brian-pico-breakout/blob/main/Version%202/3D%20Renderings/front.png" height=30% width=30% > <img src="https://github.com/brianreboot/brian-pico-breakout/blob/main/Version%202/3D%20Renderings/back.png" height=30% width=30% >
 
 # Firmware
 Go to the [Open Stick Foundation Github](https://github.com/OpenStickFoundation/GP2040-CE) for more info and firmware. <br />
