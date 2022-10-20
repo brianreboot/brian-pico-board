@@ -1,5 +1,5 @@
 # Pico Breakout
-This a simple Pico breakout PCB based on the Open Stick Foundation.
+This a simple Pico breakout PCB.
 
 # Version 2
 <img src="https://github.com/brianreboot/brian-pico-breakout/blob/main/Version%202/3D%20Renderings/front.png" height=30% width=30% > <img src="https://github.com/brianreboot/brian-pico-breakout/blob/main/Version%202/3D%20Renderings/back.png" height=30% width=30% >
