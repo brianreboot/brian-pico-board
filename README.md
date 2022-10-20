@@ -15,7 +15,7 @@ Just upload the gerber zip file and use the default settings.
 
 # Firmware
 This board requires a tweaked firmware that is based on the [Open Stick Foundation](https://github.com/OpenStickFoundation/GP2040-CE).<br />
-To properly use this board then head over to my github <https://github.com/brianreboot/GP2040-CE/tree/VLX> and check out the VLX tree for the tweaked firmware. It has the same functionality except that the button layout on the OLED has been modified for the HRAP Premium VLX controller.
+To properly use this board then head over to my github <https://github.com/brianreboot/GP2040-CE> for the tweaked firmware. It has the same functionality except that the button layout on the OLED has been modified for the HRAP Premium VLX controller and pins rearranged on the Pico to for my PCB.
 
 # License
 CERN-OHL-W
