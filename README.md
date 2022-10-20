@@ -14,7 +14,7 @@ Just upload the gerber zip file and use the default settings.
 <img src="https://github.com/brianreboot/brian-pico-breakout/blob/main/jlcpcb%20pcb%20options/pcb%20options.png" height=30% width=30% >
 
 # Firmware
-This board uses a tweaked firmware that is based on the [Open Stick Foundation](https://github.com/OpenStickFoundation/GP2040-CE).<br />
+This board requires a tweaked firmware that is based on the [Open Stick Foundation](https://github.com/OpenStickFoundation/GP2040-CE).<br />
 To properly use this board then head over to my github <https://github.com/brianreboot/GP2040-CE/tree/VLX> and check out the VLX tree for the tweaked firmware. It has the same functionality except that the button layout on the OLED has been modified for the HRAP Premium VLX controller.
 
 # License
