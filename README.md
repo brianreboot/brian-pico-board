@@ -9,7 +9,7 @@ There's nothing really special about this board, it just takes the Pico and make
 
 # Getting the PCB made.
 I get my PCBs made at <https://jlcpcb.com/>.  <br />
-Just upload the gerber zip file and use the default settings.
+Just upload [pico_breakout_v2.zip](https://github.com/brianreboot/brian-pico-breakout/blob/main/Version%202/gerbers/pico_breakout_v2.zip) and use the default settings.
 
 <img src="https://github.com/brianreboot/brian-pico-breakout/blob/main/jlcpcb%20pcb%20options/pcb%20options.png" height=30% width=30% >
 
